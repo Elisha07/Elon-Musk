@@ -1,0 +1,23 @@
+body{
+    text-align:center;
+    background: rgb(245, 229, 219);
+}
+
+#first{
+    border-radius: 50%;
+}
+
+#name{
+    font-size: 60px;
+    text-decoration:underline;
+    font-family: poppins;
+}
+
+#desc{
+    font-size:25px;
+    letter-spacing: 15px;
+}
+
+hr{
+    width: 40%;
+}
